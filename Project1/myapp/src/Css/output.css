@@ -1,0 +1,18 @@
+.Card
+{
+    float: left;
+    margin: 10px;
+    border: 1px solid;
+    text-align: center;
+    width: 500px;
+    padding: 10px;
+    
+}
+
+
+img{
+    border-radius: 70%;
+}
+p{
+    line-height: 10px;
+}

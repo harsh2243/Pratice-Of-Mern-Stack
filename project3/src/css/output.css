@@ -1,0 +1,13 @@
+.show{
+    float: left;
+    margin: 5px;
+    text-align: center;
+    border: 2px solid black;
+    width: 300px;
+    height: 350px;
+}
+.show img{
+    height: 120px;
+    width:120px;
+    padding: 10px;
+}

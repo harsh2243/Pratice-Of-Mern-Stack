@@ -1,0 +1,45 @@
+body{
+    text-decoration: none;
+    list-style: none;
+}
+
+
+
+.second{
+    background-color: rgb(47, 19, 19);
+    height: 50px;
+    width: 100%;
+    display: inline-block;
+}
+img{
+    width: 150px;
+}
+ul li{
+    display: inline-block;
+    color: black;
+    margin-right: 10px;
+}
+
+.search{
+    width: 350px;
+    margin-right:1rem;
+}
+.logo{
+    margin-right: 17rem;
+}
+.NAV1{
+    justify-content: space-between;
+    
+    
+}
+.NAV1 a{
+    color: black;
+}
+/* .box{
+    display: flex;
+}
+.card{
+    height: 35rem;
+    width: 33%;
+    
+} */

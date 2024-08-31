@@ -1,0 +1,20 @@
+
+
+.menu{
+    height: 7vh;
+    width: 20vw;
+    color:grey;
+    background-color:white;
+    border: transparent;
+}
+a:hover{
+   cursor: pointer;
+}
+.menu{
+    height: 7vh;
+    width: 20vw;
+    color:grey;
+    
+    border: transparent;
+    
+}
